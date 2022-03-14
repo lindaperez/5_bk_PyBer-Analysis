@@ -18,20 +18,20 @@ The data extracted from several csv files:
 
 * 68.4% of the rides are in Urban areas 26.3% are in suburban areas and only 5.3% are in Rural areas.
 
-![Total Rides](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/Resources/TotalRides.png)
+![Total Rides](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/TotalRides.png)
 
 ### Percentage of total drivers by city types: Rural, Suburban and Urban Areas
 
 * The total drivers in Urban areas represent the 80.9%, Suburban areas 16.5% and Rural areas only 2.6%
 
-![Total Drivers](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/Resources/TotalDrivers.png)
+![Total Drivers](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/TotalDrivers.png)
 
 * Urban areas represent the highest source of income. 62.7% of the total fares come from Urban areas. 30.5% from Suburban areas and only 6.8% from Rural areas.
 
 
 ### Percentage of total fare amount by city types:  Rural, Suburban and Urban Areas
 
-![Total Fare](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/Resources/TotalFare.png)
+![Total Fare](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/TotalFare.png)
 
 ### Average number of fare per ride and Average number of fare per driver 
 
@@ -55,7 +55,7 @@ Urban areas have the lowest fares and Rural areas have the highest fare respecti
 *  The Fares are stable across the months from January to April. Between Febrary and March an increment ocurred in all fares. 
 
 
-![Fare Summary](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/Resources/PyBer_fare_summary.png)
+![Fare Summary](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/PyBer_fare_summary.png)
 
 
 ## Summary
