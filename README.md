@@ -35,18 +35,25 @@ The data extracted from several csv files:
 
 ### Average number of fare per ride and Average number of fare per driver 
 
-* For this measure the highers and lowers are different. There is a big difference between the average fare per ride from urban areas versus rural areas. 
+* For this measure (Average number of fare per ride) the highers and lowers are different. There is a big difference between the average fare per ride from urban areas versus rural areas. 
 Urban areas have the lowest fares and Rural areas have the highest fare respectively {Rural : 34.62, Suburban : 30.97, Urban : 24.53}
 
 
 * Same reasoning with the measure of average fare per driver but in this case it is more balanced. Rural areas have the highest fares and Urban areas have the lowest fares respectively {Rural : 55.49, Suburban : 39.5, Urban : 16.57} per driver. 
 
+![Fare comparison](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/Fig8.png)
+
+
+* Negative relationshipt, the more drivers the less rides are found and lower fares are exposed. 
+
 
 ![Fare comparison](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/Fig1.png)
+
 
 ### Total of fares by city types (Suburba, Urban, Rural)
 
 *  The Fares are stable across the months from January to April. Between Febrary and March an increment ocurred in all fares. 
+
 
 ![Fare Summary](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/Resources/PyBer_fare_summary.png)
 
