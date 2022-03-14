@@ -14,7 +14,14 @@ The data extracted from several csv files:
 ## Results 
 
 
-### Percentage of total rides by city types: Rural, Suburban and Urban Areas
+### Percentage of total rides by city types: Rural, 
+
+
+
+
+
+
+n and Urban Areas
 
 * 68.4% of the rides are in Urban areas 26.3% are in suburban areas and only 5.3% are in Rural areas.
 
@@ -31,7 +38,7 @@ The data extracted from several csv files:
 
 ### Percentage of total fare amount by city types:  Rural, Suburban and Urban Areas
 
-![Total Fare](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/TotalFare.png)
+![Total Fare](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/TotalFares.png)
 
 ### Average number of fare per ride and Average number of fare per driver 
 
@@ -44,15 +51,15 @@ Urban areas have the lowest fares and Rural areas have the highest fare respecti
 ![Fare comparison](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/Fig8.png)
 
 
-* Negative relationshipt, the more drivers the less rides are found and lower fares are exposed. 
+* Negative relationship, the more drivers the less rides are found and lower fares are exposed. 
 
 
 ![Fare comparison](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/Fig1.png)
 
 
-### Total of fares by city types (Suburba, Urban, Rural)
+### Total of fares by city types (Suburban, Urban, Rural)
 
-*  The Fares are stable across the months from January to April. Between Febrary and March an increment ocurred in all fares. 
+*  The Fares are stable across the months from January to April. Between February and March an increment occurred in all fares. 
 
 
 ![Fare Summary](https://github.com/lindaperez/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb/analysis/PyBer_fare_summary.png)
@@ -61,8 +68,8 @@ Urban areas have the lowest fares and Rural areas have the highest fare respecti
 ## Summary
 Three business recommendations to the CEO for addressing any disparities among the city types:
 
-1. Analyze costs of life, expenses in vehicles, housing, travel distances can make reasonable impact in fares in Rural areas.
-2. Analyze how the drivers are assigned to every zone. Is there any system or they are just hired. 
-3. Analyze Job oportunities/acomodations/population are possible reasons for disparities in the number of drivers.  
+1. Analyzing costs of life, expenses in vehicles, housing, travel distances can make a reasonable impact on fares in Rural areas.
+2. Analyze how the drivers are assigned to every zone. Is there any system to hire the people.
+3. Analyze Job opportunities/accommodations/population are possible reasons for disparities in the number of drivers.  
 
 
